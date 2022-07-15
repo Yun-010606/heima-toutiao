@@ -7,7 +7,8 @@ module.exports = {
       rootValue: (arg) => {
         return arg.file.includes('vant') ? 37.5 : 75
       },
-      propList: ['*']
+      propList: ['*'],
+      exclude: "github-markdown",
     }
   }
 }
