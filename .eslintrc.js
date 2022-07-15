@@ -17,6 +17,7 @@ module.exports = {
     'spance-before-function-paren': 'off',
     'vue/no-mutating-props': 'off',
     'no-trailing-spaces': 'off',
-    'vue/no-duplicate-attributes': 'off'
+    'vue/no-duplicate-attributes': 'off',
+    'vue/multi-word-component-names': 'off'
   }
 }

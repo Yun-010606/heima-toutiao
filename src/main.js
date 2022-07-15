@@ -9,6 +9,8 @@ import Vant from 'vant'
 import 'vant/lib/index.less'
 // 引入amfe-flexible插件 用于设置 rem 基准值
 import 'amfe-flexible'
+// 引入dayjs
+import '@/utils/dayjs'
 // 引入组件
 import TouTiao from '@/components/TouTiao.vue'
 // 测试一下接口是否可用
